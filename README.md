@@ -6,8 +6,7 @@
 
 > **Análisis Empírico de Narrativas Personalizadas en Sistemas de Recomendación**
 > 
-> Trabajo de Fin de Máster en Big Data e Inteligencia Artificial  
-> CEU San Pablo Universidad | 2024-2025
+
 
 ---
 
