@@ -235,20 +235,6 @@ El algoritmo **amplifica** la valencia emocional específica de cada dominio:
 ### 🎯 Hallazgo 3: Burbujas Predecibles
 La precisión del 93.92% demuestra que las burbujas de contenido son **matemáticamente separables** y lingüísticamente predecibles.
 
----
-
-## 🌐 Recursos Adicionales
-
-### 📊 Presentación Interactiva
-👉 [Ver presentación en Figma](https://mocha-flight-40285823.figma.site/)
-
-### 📁 Visualizaciones HTML
-Las visualizaciones interactivas están disponibles en la carpeta `visualizations/`:
-- `wordcloud_comparativo.html` - Word cloud de ambos perfiles
-- `red_narrativas.html` - Grafo de co-ocurrencias
-- `dashboard_comparativo.html` - Panel de métricas
-
-Para visualizarlas, simplemente abre los archivos HTML en tu navegador.
 
 ---
 
