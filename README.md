@@ -19,6 +19,8 @@ Este proyecto investiga cómo los algoritmos de recomendación actúan como "nar
 **¿Qué "mundo narrativo" le presenta el algoritmo a un usuario interesado en política frente a uno interesado en estilo de vida?**
 
 ---
+PDF CON TODO EL REGISTRO, EL PROCESO Y LAS CONCLUSIONES: 
+[el_algoritmo_como_narrador.pdf](https://github.com/user-attachments/files/23611525/el_algoritmo_como_narrador.pdf)
 
 ## ✨ Características Principales
 
