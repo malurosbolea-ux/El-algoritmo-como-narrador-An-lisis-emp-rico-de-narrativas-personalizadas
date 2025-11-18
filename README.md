@@ -31,25 +31,6 @@ Este proyecto investiga cómo los algoritmos de recomendación actúan como "nar
 
 ---
 
-## 🎨 Visualizaciones Interactivas
-
-### 1. Word Cloud Comparativo
-Visualización de las palabras más frecuentes en cada mundo narrativo, mostrando la separación radical entre los vocabularios de Política y Lifestyle.
-
-![Word Cloud](assets/viz_wordcloud.png)
-
-### 2. Dashboard Analítico
-Panel interactivo con métricas clave: distribución de sentimiento, palabras más frecuentes, evolución temporal y rendimiento del modelo predictivo.
-
-![Dashboard](assets/viz_dashboard.png)
-
-### 3. Red de Conexiones Narrativas
-Grafo interactivo que muestra las co-ocurrencias entre palabras clave, revelando cómo se estructuran semánticamente los dos mundos.
-
-![Red de Narrativas](assets/viz_red.png)
-
----
-
 ## 🛠️ Tecnologías Utilizadas
 
 ### Análisis de Datos
